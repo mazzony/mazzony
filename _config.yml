@@ -23,7 +23,7 @@ avatar_image: /img/photo_5922476588417532735_y.jpg
 #-------------------------------
 # Contact links
 linkedln: "https://www.linkedin.com/in/mazin-osman-a53467195" # Add your linkedln handle
-github: "https://github.com/mazzony"  # Add your github handle
+github: "https://github.com/mazzony.github.io"  # Add your github handle
 
 paginate: 6
 paginate_path: "/page/:num"
